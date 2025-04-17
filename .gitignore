@@ -1,5 +1,5 @@
 # .gitignore
 __pycache__/
-*.pyc
-*.xlsx
+.pyc
+.xlsx
 .env
